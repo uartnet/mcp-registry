@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/2630767?v=4
 source:
   project: https://github.com/hostinger/api-mcp-server
-  commit: 5a9123722ac4a4e7fabd13b71d9cc5394a1a9755
+  commit: 5490aa482d9aa9c23f635ae12517c1d888b5f787
 config:
   description: Configure the connection to Hostinger API MCP Server
   secrets:
